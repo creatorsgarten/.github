@@ -3,7 +3,6 @@
 ![cover](./cover.png)
 
 ## Who are we
----
 We are a diverse group of people who are united by our love for creating things. We believe that through the lens of creation and technology, we can discover the fun and beauty in everything around us.
 
 We don't believe in disciplinary boundaries. As we think that all knowledge is connected, and that by breaking down barriers we can learn more and create more interesting things.
@@ -23,7 +22,6 @@ The name Creatorsgarten comes from the word creators and garten, as in Kindergar
 We invite you to join us on this journey of exploration and creation. Together, let’s create things.
 
 ## Links
----
 - Website: [Creatorsgarten.org](https://creatorsgarten.org)
 - Facebook: [Creatorsgarten](https://facebook.com/creatorsgarten)
 - Github: [Creatorsgarten](https://github.com/creatorsgarten)
