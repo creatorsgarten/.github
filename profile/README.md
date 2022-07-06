@@ -1,6 +1,6 @@
 # Creatorsgarten
 
-![cover](./cover.png)
+![cover](https://github.com/creatorsgarten/.github/raw/main/profile/cover.png)
 
 ## Who are we
 We are a diverse group of people who are united by our love for creating things. We believe that through the lens of creation and technology, we can discover the fun and beauty in everything around us.
